@@ -1,0 +1,20 @@
+body {
+    background:#111;
+    margin:0;
+    padding:0
+}
+canvas {
+    background:#000;
+    display:block;
+    cursor: none
+}
+h1 {
+    position: absolute;
+    top: -1%;
+    right: 35%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 100;
+    letter-spacing: -2px;
+    color: #fff;
+}
